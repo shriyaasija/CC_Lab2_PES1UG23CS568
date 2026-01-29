@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database (optional - you might want to exclude this too)
+*.db
+
+# IDE
+.vscode/
+.idea/
